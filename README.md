@@ -1,2 +1,3 @@
 # Secret-Auction-Program
-Read the "ReadMe"file to understand the program.
+
+The program is a version of an auction called "Blind Auction" which doesn't reveal the bids till the end of auction.
